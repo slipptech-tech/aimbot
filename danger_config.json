@@ -1,0 +1,46 @@
+{
+    "aimbot": {
+        "aim_assist": false,
+        "aim_error_px": 3.5,
+        "always_on": true,
+        "enabled": true,
+        "exposed_bones_only": false,
+        "flick_overshoot_px": 4.0,
+        "fov": 29.899999618530273,
+        "hotkey": 6,
+        "humanization": false,
+        "miss_chance": 0.07999999821186066,
+        "multibone": true,
+        "multibone_closest": true,
+        "multibone_interp_steps": 2,
+        "multibone_interpolate": true,
+        "rcs": true,
+        "reaction_time_ms": 200.0,
+        "smooth": 1.0,
+        "tracking_jitter": 0.800000011920929,
+        "velocity_comp": true,
+        "velocity_comp_scale": 0.019999999552965164,
+        "visible_only": false
+    },
+    "antiflash": {
+        "enabled": true,
+        "opacity": 0.0
+    },
+    "enabled": true,
+    "rcs": {
+        "enabled": true,
+        "horizontal": 1.0,
+        "vertical": 1.0
+    },
+    "settings": {
+        "free_cpu": true,
+        "update_rate": 1
+    },
+    "triggerbot": {
+        "delay": 50,
+        "enabled": false,
+        "key": 5,
+        "only_in_crosshair": true,
+        "team": false
+    }
+}
